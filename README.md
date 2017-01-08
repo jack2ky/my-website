@@ -2,6 +2,4 @@
 
 __Make changes on branch "example"__
 
-now editing on the update-readme branch
-
-updated locally.
+Updates made on master on github before rebase
