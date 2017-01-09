@@ -3,11 +3,9 @@
 __Make changes on branch "example"__
 
 Updates made on master on github before rebase
-##Purpose 
+##Purpose
 
-## Repository (added locally jack)
-This will be a change that conflicts
-with whatever is on the remote side.
-This was edited locally.
+## New Purpose
 
-This is just for kicks
+The purpost of this file is to provide examples on how to use
+Git and GitHub together.
